@@ -9,7 +9,7 @@
 
 2. Fork This Repository
    <br>
-<a href='https://github.com/sataniceypz/Izumi-V3/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Achumodex1/Achumodex1.git/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
 ### Koyeb
 1. Create account on Koyeb
@@ -22,25 +22,16 @@
    <br>
 <a href='https://izumi-web.vercel.app/koyeb' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-### Railway
-1. Create account on Railway
-   <br>
-<a href='https://railway.app/login' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 2. Deploy on Railway
    <br>
 <a href='https://railway.app/template/jE4mV4?referralCode=RUBiix' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
-### Render
-1. Create account on Render
-   <br>
-<a href='https://render.com' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=Render&logoColor=white'/></a>
 
 2. Deploy on Render
    <br>
 <a href='https://izumi-web.vercel.app/render' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=Render&logoColor=white'/></a>
 
-   
  
 ### For getting session in Indian number
 1.  Termux
