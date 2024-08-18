@@ -1,0 +1,33 @@
+{
+  "name": "Achu-v3",
+  "version": "3.3.1",
+  "description": "ACHU-XD simple multi device WhatsApp Bot.",
+  "main": "./index.js",
+  "scripts": {
+    "start": "pm2 start . --attach --name achu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Achumodex1/Achumodex1.git"
+  },
+  "keywords": [
+    "bot",
+    "achu",
+    "achu"
+  ],
+  "author": "ACHU",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/eypz/Izumi-v3/issues"
+  },
+  "homepage": "https://github.com/eypz/Izumi-v3#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "mask-md": "^1.3.0",
+    "node-webpmux": "^3.1.0",
+    "node": "20",
+    "npm": "6",
+    "sqlite3": "^5.1.1"
+  }
+}
