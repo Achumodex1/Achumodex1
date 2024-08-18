@@ -61,7 +61,7 @@
 2. installation
    ```
    git clone https://github.com/sataniceypz/Izumi-v3
-   cd Izumi-v3
+   cd achu-v3
 4. Configuration
    ```
    echo "TERMUX = true
@@ -86,4 +86,4 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 #### THANKS TO
-- [ Mask-Ser💗](https://github.com/mask-sir) <br>
+- [『𔑺』𝜦𝝇𐱅𝝊𝝃𝝃⁵⁵⁵𝅃፝֟•𝅃꯭᳚🐲𝆺𝅥⃝🐉<br>
