@@ -1,7 +1,7 @@
 
 <a><img src='https://telegra.ph/file/d8f3a5d0e0e522d63d2f5.jpg'/></a>
 
-## 𝐁𝐋𝐔𝐄 𝐌𝐎𝐎𝐍 𝐕-4 a simple Multi device Whatsapp Bot   
+## 𝐁𝐋𝐔𝐄 𝐌𝐎𝐎𝐍 𝐕-4 𝐚 𝐬𝐢𝐦𝐩𝐥𝐞 𝐌𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭  
 ### Setup 
 1. Get Session
    <br>
