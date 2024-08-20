@@ -84,18 +84,17 @@
    ```
 2. installation
    ```
-   git clone https://github.com/sataniceypz/Izumi-v3
-   cd Izumi-v3
+   git clone https://github.com/Achumodex1/Achumodex1.git
 4. Configuration
    ```
    echo "TERMUX = true
-   SESSION_ID = izumi~NJrnzJyS
+   SESSION_ID = wolf-md~NJrnzJyS
    PREFIX = .
    READ_MSG = false
    ALWAYS_ONLINE = false
    REJECT_CALL = false
    LOG_MSG = true
-   SUDO = 917994489493
+   SUDO = 910000000000
    AUTO_STATUS_VIEW = true" > config.env
    ```
 - Start
