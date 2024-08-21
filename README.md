@@ -5,7 +5,7 @@
 ### Setup 
 1. Get Session
    <br>
-<a href='https://izumi.maskser.me' target="_blank"><img alt='Session' src='https://ik.imagekit.io/eypz/1724221762036_pVjNxyfHC.png/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&redcolor=black'/></a>
+<a href='https://izumi.maskser.me' target="a_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
  
 ### For getting session in Indian number
