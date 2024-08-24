@@ -109,5 +109,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 #### THANKS TO
-- [『𔑺』𝜦𝝇𐱅𝝊𝝃𝝃⁵⁵⁵𝅃፝֟•𝅃꯭᳚🐲𝆺𝅥⃝🐉https://telegra.ph/file/229312c344db0a90bca65.jpg" width="250" height="250" alt="BLUE DEMON"/></a>
+- [『𔑺』𝜦𝝇𐱅𝝊𝝃𝝃⁵⁵⁵𝅃፝֟•𝅃꯭᳚🐲𝆺𝅥⃝🐉https://telegra.ph/file/229312c344db0a90bca65.jpg"/></a>
 
