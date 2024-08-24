@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## Izumi-v3 a simple Multi device Whatsapp Bot   
+## 𝐁𝐋𝐔𝐄 𝐌𝐎𝐎𝐍 𝐕4 𝐢𝐬 𝐭𝐡𝐞  𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞 𝐛𝐨𝐭 𝐛𝐚𝐬𝐞𝐝 𝐨𝐧 𝐢𝐳𝐮𝐦𝐢   
 ### Setup 
 1. Get Session
    <br>
@@ -110,6 +110,5 @@
 
 #### THANKS TO
 - [『𔑺』𝜦𝝇𐱅𝝊𝝃𝝃⁵⁵⁵𝅃፝֟•𝅃꯭᳚🐲𝆺𝅥⃝🐉
-- src='https://telegra.ph/file/229312c344db0a90bca65.jpg"/></a>
-
+- 
 
