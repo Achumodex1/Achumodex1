@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://ik.imagekit.io/eypz/1724465080509_d4n4IZ2zD.png'/></a>
 
 ## 𝐁𝐋𝐔𝐄 𝐌𝐎𝐎𝐍 𝐕4 𝐢𝐬 𝐭𝐡𝐞  𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞 𝐛𝐨𝐭 𝐛𝐚𝐬𝐞𝐝 𝐨𝐧 𝐢𝐳𝐮𝐦𝐢   
 ### Setup 
