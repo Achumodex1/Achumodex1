@@ -2,9 +2,9 @@
 
 ## 𝐁𝐋𝐔𝐄 𝐌𝐎𝐎𝐍 𝐕4 𝐢𝐬 𝐭𝐡𝐞  𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞 𝐛𝐨𝐭 𝐛𝐚𝐬𝐞𝐝 𝐨𝐧 𝐢𝐳𝐮𝐦𝐢   
 ### Setup 
-1. 1. Scan the QR code
-    <br>
-<a href='https://jarvis.lokiser.xyz/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+1.1. Get Session
+   <br>
+<a href='https://izumi.maskser.me' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
 
  
